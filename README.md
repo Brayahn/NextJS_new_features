@@ -1,10 +1,12 @@
 TOPICS COVERED 
-APP ROUTER
-ROUTING 
-ERROR HANDLING 
-LOADINGS 
-DATA FETCHING 
-API ROUTES 
+```bash
+App Router
+Routing - within the app  
+Error Handling
+Loadings 
+Data Fetching 
+API Routes
+```
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
