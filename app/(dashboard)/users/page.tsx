@@ -3,8 +3,7 @@ import Link from 'next/link'
 const page = () => {
   return (
     <div>Users
-
-<ul>
+        <ul>
             <li>
                 <Link href='/dashboard/users/1'> User 1 </Link> 
                 <Link href='/dashboard/users/2'> User 2 </Link> 
